@@ -1,0 +1,28 @@
+﻿'HuffmanCode.exe': Loaded 'Y:\CMPSC122\Labs\HuffmanCode_and_Map\Debug\HuffmanCode.exe', Symbols loaded.
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\ntdll.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\kernel32.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\KernelBase.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\msvcp100d.dll', Symbols loaded.
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\msvcr100d.dll', Symbols loaded.
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\apphelp.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\AppPatch\AcLayers.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\sspicli.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\msvcrt.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\rpcrt4.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\user32.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\gdi32.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\lpk.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\usp10.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\shell32.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\shlwapi.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\ole32.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\oleaut32.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\userenv.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\profapi.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\winspool.drv', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\mpr.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\imm32.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'C:\Windows\System32\msctf.dll', Cannot find or open the PDB file
+'HuffmanCode.exe': Loaded 'ImageAtBase0x4a240000', Loading disabled by Include/Exclude setting.
+'HuffmanCode.exe': Unloaded 'ImageAtBase0x4a240000'
+The program '[804] HuffmanCode.exe: Native' has exited with code 0 (0x0).
